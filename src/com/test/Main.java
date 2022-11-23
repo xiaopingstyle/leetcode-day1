@@ -8,5 +8,6 @@ public class Main{
         System.out.println("hello world");
         System.out.println("hello world");
         System.out.println("master test");
+        System.out.println("hot-fox test");
     }
 }
