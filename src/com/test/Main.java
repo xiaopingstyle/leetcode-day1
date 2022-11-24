@@ -11,5 +11,6 @@ public class Main{
         System.out.println("hot-fox test");
         System.out.println("pull test");
         System.out.println("gitee test");
+        System.out.println("github test");
     }
 }
